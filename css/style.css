@@ -20,11 +20,12 @@ main {
 footer {
     background-color: lightblue;
 }
-
+/*
 li {
     display: inline-block;
     width: 150px;
 }
+/*
 
 h1 {
     text-align: center;
